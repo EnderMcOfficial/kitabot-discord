@@ -1,2 +1,5 @@
 # kitabot-discord
-KitaBot Commands
+
+Bot Commands And Coding!
+
+by Wuligata#5900
