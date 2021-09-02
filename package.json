@@ -1,0 +1,18 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "PinkEnder25#5900",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.0.2",
+    "workerpool": "6.1.2"
+  }
+}
